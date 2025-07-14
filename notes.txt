@@ -1,0 +1,21 @@
+node.js is an open source JavaScript runtime.
+runtime: an environment used to run some other technology.
+
+Usage: for developing server-side & networking API's / APPS, real-time
+       applications, CLI tools, static or dynamic web server.
+
+       NOTE: Due to its underlying working principle, it's not best 
+             for CPU intensive tasks.
+
+POWER: allow to develop without having to work with back-end server side 
+languages like PHP, PYTHON, C# , etc.
+
+ALTERNATIVES: Deno and Bun are other runtimes like node.js.
+IMPORTANCE: Fast and scalable and used by numerous trending businesses.
+
+Modularity: contains a lot of import/export modules.
+HTTP Module: allowss you to create a server and send request to it and get              responses and this tutorial will be oriented towards this 
+              moddule.
+          
+CUSTOM MIDDLEWARE:            functions that sit b/w incoming requests and                               outgoing responses.
+
