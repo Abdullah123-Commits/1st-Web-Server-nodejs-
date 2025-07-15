@@ -14,8 +14,8 @@ ALTERNATIVES: Deno and Bun are other runtimes like node.js.
 IMPORTANCE: Fast and scalable and used by numerous trending businesses.
 
 Modularity: contains a lot of import/export modules.
-HTTP Module: allowss you to create a server and send request to it and get              responses and this tutorial will be oriented towards this 
+HTTP Module: allowss you to create a server and send request to it and get responses and this tutorial will be oriented towards this 
               moddule.
           
-CUSTOM MIDDLEWARE:            functions that sit b/w incoming requests and                               outgoing responses.
+CUSTOM MIDDLEWARE:            functions that sit b/w incoming requests and  outgoing responses.
 
